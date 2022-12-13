@@ -1,0 +1,20 @@
+{
+  "UsersLoginVue": {
+    "description": "Auto imported from components/users/LoginVue.vue"
+  },
+  "UsersRegisterVue": {
+    "description": "Auto imported from components/users/RegisterVue.vue"
+  },
+  "UsersUsuariosVue": {
+    "description": "Auto imported from components/users/UsuariosVue.vue"
+  },
+  "DashboardAquieditasJudith": {
+    "description": "Auto imported from components/dashboard/AquieditasJudith.vue"
+  },
+  "DashboardDrawer": {
+    "description": "Auto imported from components/dashboard/Drawer.vue"
+  },
+  "DashboardLibrosReVue": {
+    "description": "Auto imported from components/dashboard/LibrosReVue.vue"
+  }
+}
