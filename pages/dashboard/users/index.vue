@@ -1,29 +1,23 @@
+
 <template>
+  <v-col style="align-self: center;">
     <v-row>
-      <v-col cols="6">
-        <UsuariosVue />
-      </v-col>
-      <v-col cols="6">
-        <LibrosReVue/>
-      </v-col>
-      <v-col>
-        <AquieditasJudith/>
-      </v-col>
-      
+      <UsuariosVue/>
     </v-row>
+    <v-row>
+      <RegisterVue/>
+    </v-row>
+  </v-col>
 </template>
 
-  <script>
+<script>
 
-
-import LibrosReVue from '~/components/dashboard/LibrosReVue.vue';
-
-import AquieditasJudith from '~/components/dashboard/AquieditasJudith.vue';
+import RegisterVue from '~/components/users/RegisterVue.vue'
 import UsuariosVue from '~/components/users/UsuariosVue.vue'
-  export default {
-    name: "Index",
-    auth: true, //true
-    components: { LibrosReVue, UsuariosVue, AquieditasJudith },
-    layout: "DashboardVue"
+export default {
+  name: "Index",
+  auth: true, //true
+  components: {UsuariosVue, RegisterVue },
+  layout: "DashboardVue"
 }
-  </script>
+</script>

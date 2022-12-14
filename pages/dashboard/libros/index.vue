@@ -5,6 +5,7 @@
 </template>
 
   <script>
+
 import Librotes from '~/components/dashboard/Librotes.vue'
   export default {
     name: "Index",

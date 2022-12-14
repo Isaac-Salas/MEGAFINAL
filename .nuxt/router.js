@@ -4,12 +4,12 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _5f96965e = () => interopDefault(import('..\\pages\\dashboard\\index.vue' /* webpackChunkName: "pages/dashboard/index" */))
-const _bb940494 = () => interopDefault(import('..\\pages\\registration\\index.vue' /* webpackChunkName: "pages/registration/index" */))
-const _49050700 = () => interopDefault(import('..\\pages\\dashboard\\libros\\index.vue' /* webpackChunkName: "pages/dashboard/libros/index" */))
-const _c3a5c0ca = () => interopDefault(import('..\\pages\\dashboard\\users\\index.vue' /* webpackChunkName: "pages/dashboard/users/index" */))
-const _076d8459 = () => interopDefault(import('..\\pages\\dashboard\\libros\\Jsus\\index.vue' /* webpackChunkName: "pages/dashboard/libros/Jsus/index" */))
-const _7371344f = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _add3e57c = () => interopDefault(import('..\\pages\\dashboard\\index.vue' /* webpackChunkName: "pages/dashboard/index" */))
+const _39e903a5 = () => interopDefault(import('..\\pages\\registration\\index.vue' /* webpackChunkName: "pages/registration/index" */))
+const _3bbbd3f1 = () => interopDefault(import('..\\pages\\dashboard\\libros\\index.vue' /* webpackChunkName: "pages/dashboard/libros/index" */))
+const _77fd960a = () => interopDefault(import('..\\pages\\dashboard\\users\\index.vue' /* webpackChunkName: "pages/dashboard/users/index" */))
+const _ce493418 = () => interopDefault(import('..\\pages\\dashboard\\libros\\regislibros\\index.vue' /* webpackChunkName: "pages/dashboard/libros/regislibros/index" */))
+const _66d2b87e = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
 
@@ -24,27 +24,27 @@ export const routerOptions = {
 
   routes: [{
     path: "/dashboard",
-    component: _5f96965e,
+    component: _add3e57c,
     name: "dashboard"
   }, {
     path: "/registration",
-    component: _bb940494,
+    component: _39e903a5,
     name: "registration"
   }, {
     path: "/dashboard/libros",
-    component: _49050700,
+    component: _3bbbd3f1,
     name: "dashboard-libros"
   }, {
     path: "/dashboard/users",
-    component: _c3a5c0ca,
+    component: _77fd960a,
     name: "dashboard-users"
   }, {
-    path: "/dashboard/libros/Jsus",
-    component: _076d8459,
-    name: "dashboard-libros-Jsus"
+    path: "/dashboard/libros/regislibros",
+    component: _ce493418,
+    name: "dashboard-libros-regislibros"
   }, {
     path: "/",
-    component: _7371344f,
+    component: _66d2b87e,
     name: "index"
   }],
 

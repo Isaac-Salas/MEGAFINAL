@@ -2,43 +2,37 @@
   {
     "name": "dashboard",
     "path": "/dashboard",
-    "component": "C:\\\\Users\\\\judit\\\\Downloads\\\\Front-Judith (1)\\\\Front-Judithnolesabe-main\\\\pages\\\\dashboard\\\\index.vue",
-    "chunkName": "pages/dashboard/index",
-    "_name": "_5f96965e"
+    "component": "C:\\\\Users\\\\Isok\\\\Downloads\\\\FINAL\\\\MEGAFINAL\\\\pages\\\\dashboard\\\\index.vue",
+    "chunkName": "pages/dashboard/index"
   },
   {
     "name": "registration",
     "path": "/registration",
-    "component": "C:\\\\Users\\\\judit\\\\Downloads\\\\Front-Judith (1)\\\\Front-Judithnolesabe-main\\\\pages\\\\registration\\\\index.vue",
-    "chunkName": "pages/registration/index",
-    "_name": "_bb940494"
+    "component": "C:\\\\Users\\\\Isok\\\\Downloads\\\\FINAL\\\\MEGAFINAL\\\\pages\\\\registration\\\\index.vue",
+    "chunkName": "pages/registration/index"
   },
   {
     "name": "dashboard-libros",
     "path": "/dashboard/libros",
-    "component": "C:\\\\Users\\\\judit\\\\Downloads\\\\Front-Judith (1)\\\\Front-Judithnolesabe-main\\\\pages\\\\dashboard\\\\libros\\\\index.vue",
-    "chunkName": "pages/dashboard/libros/index",
-    "_name": "_49050700"
+    "component": "C:\\\\Users\\\\Isok\\\\Downloads\\\\FINAL\\\\MEGAFINAL\\\\pages\\\\dashboard\\\\libros\\\\index.vue",
+    "chunkName": "pages/dashboard/libros/index"
   },
   {
     "name": "dashboard-users",
     "path": "/dashboard/users",
-    "component": "C:\\\\Users\\\\judit\\\\Downloads\\\\Front-Judith (1)\\\\Front-Judithnolesabe-main\\\\pages\\\\dashboard\\\\users\\\\index.vue",
-    "chunkName": "pages/dashboard/users/index",
-    "_name": "_c3a5c0ca"
+    "component": "C:\\\\Users\\\\Isok\\\\Downloads\\\\FINAL\\\\MEGAFINAL\\\\pages\\\\dashboard\\\\users\\\\index.vue",
+    "chunkName": "pages/dashboard/users/index"
   },
   {
-    "name": "dashboard-libros-Jsus",
-    "path": "/dashboard/libros/Jsus",
-    "component": "C:\\\\Users\\\\judit\\\\Downloads\\\\Front-Judith (1)\\\\Front-Judithnolesabe-main\\\\pages\\\\dashboard\\\\libros\\\\Jsus\\\\index.vue",
-    "chunkName": "pages/dashboard/libros/Jsus/index",
-    "_name": "_076d8459"
+    "name": "dashboard-libros-regislibros",
+    "path": "/dashboard/libros/regislibros",
+    "component": "C:\\\\Users\\\\Isok\\\\Downloads\\\\FINAL\\\\MEGAFINAL\\\\pages\\\\dashboard\\\\libros\\\\regislibros\\\\index.vue",
+    "chunkName": "pages/dashboard/libros/regislibros/index"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\judit\\\\Downloads\\\\Front-Judith (1)\\\\Front-Judithnolesabe-main\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_7371344f"
+    "component": "C:\\\\Users\\\\Isok\\\\Downloads\\\\FINAL\\\\MEGAFINAL\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
   }
 ]
